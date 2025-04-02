@@ -65,6 +65,10 @@ streamlit run app.py
 
 - **清除聊天历史**：点击"Clear Chat History"按钮可重置对话
 
+### 示例
+![数学问题询问](images/question.png)
+![图片绘制](images/draw.png)
+
 ## 配置说明
 
 ### API配置
